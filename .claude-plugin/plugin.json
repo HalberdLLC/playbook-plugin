@@ -1,0 +1,10 @@
+{
+  "name": "playbook",
+  "version": "1.0.0",
+  "description": "Playbook MCP: field-tested playbooks for building, growing and shipping software, as /playbook:<name> skills.",
+  "author": {
+    "name": "Playbook MCP",
+    "url": "https://playbookmcp.com"
+  },
+  "homepage": "https://playbookmcp.com"
+}

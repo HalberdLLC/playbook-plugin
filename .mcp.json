@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "playbook": {
+      "type": "http",
+      "url": "https://playbookmcp.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${PLAYBOOK_MCP_KEY:-}"
+      }
+    }
+  }
+}

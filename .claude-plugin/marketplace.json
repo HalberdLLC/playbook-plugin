@@ -1,0 +1,14 @@
+{
+  "name": "playbook-mcp",
+  "owner": {
+    "name": "Playbook MCP",
+    "url": "https://playbookmcp.com"
+  },
+  "plugins": [
+    {
+      "name": "playbook",
+      "source": "./",
+      "description": "Every Playbook MCP playbook as a /playbook:<name> skill, plus the MCP connection."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "io.github.HalberdLLC/playbook-mcp",
+  "title": "Playbook MCP",
+  "description": "Field-tested playbooks (launch, ads, SEO, pricing, code) your AI agent reads and follows.",
+  "version": "1.1.0",
+  "websiteUrl": "https://playbookmcp.com",
+  "repository": { "url": "https://github.com/HalberdLLC/playbook-plugin", "source": "github" },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://playbookmcp.com/mcp",
+      "headers": [
+        { "name": "Authorization", "description": "Bearer <licence key>. Optional: free volumes work without a key.", "isRequired": false, "isSecret": true }
+      ]
+    }
+  ]
+}

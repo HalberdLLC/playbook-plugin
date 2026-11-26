@@ -61,6 +61,7 @@ description: "Playbook MCP library index: list every playbook, find the right on
 | /playbook:self-reliance-book-launch | `self-reliance-book-launch-playbook` | Vol. 63 The Self-Reliance Book Launch Playbook: Research, position and launch a color self-reliance book on KDP |
 | /playbook:idea-to-launch | `idea-to-launch-playbook` | Vol. 64 The Idea-To-Launch Playbook: Launch a software product and choose its listing channels with an AI agent |
 | /playbook:search-console-seo | `search-console-seo-playbook` | Vol. 65 The Search Console Seo Playbook: Mine your own search data for the next page to fix |
+| /playbook:conversion-tracking-cart-recovery | `conversion-tracking-cart-recovery-playbook` | Vol. 66 The Conversion Tracking & Cart Recovery Playbook: Cookie-free source tracking, an email step and Stripe cart recovery |
 | /playbook:ai-backlink | `ai-backlink` | Vol.  AI Destekli Backlink Playbook:  |
 | /playbook:ai-game-dev-launch-2026 | `ai-game-dev-launch-2026` | Vol.  AI Game Development & Launch Playbook 2026:  |
 | /playbook:app-screenshot | `app-screenshot` | Vol.  AI-Assisted App Screenshot Playbook:  |
